@@ -1,0 +1,15 @@
+.navigationBar {
+    height: 72px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 8px;
+  }
+  
+  .navigationBar ul {
+    display: flex;
+    gap: 24px;
+    list-style-type: none;
+    font-weight: 500;
+    
+  }
